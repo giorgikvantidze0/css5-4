@@ -1,0 +1,204 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background: #F1EBFF;
+
+    width: 100%;
+}
+
+.header-underline {
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    padding: 20px 0px 20px 0px;
+    font-size: 16px;
+    gap: 16px;
+}
+
+.underline {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.header-underline-buy {
+    color: #4400DD;
+    font-size: 16px;
+    text-decoration: none;
+    display: flex;
+    gap: 16px;
+}
+
+.frameee {
+    display: flex;
+    justify-content: center;
+}
+
+.nav {
+    display: flex;
+    max-width: 1040px;
+    width: 100%;
+    padding: 64px;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.joistic {
+    background-color: #F1EBFF;
+    border-radius: 16px;
+    max-width: 211px;
+    width: 100%;
+    padding: 14px 24px 8px 12px;
+
+}
+
+.joistic-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.images {
+    display: flex;
+    gap: 12px;
+}
+
+.images-loggo {
+    font-size: 24px;
+}
+
+.text {
+    font-size: 16px;
+}
+
+.seearch {
+    border-radius: 20px;
+    background: #4400DD;
+
+}
+
+.logoo {
+    padding: 16px 24px 16px 24px;
+}
+
+.content-hous {
+    display: flex;
+    justify-content: center;
+}
+
+.hous-div {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imagee-hous {
+    display: flex;
+    align-items: center;
+}
+
+.hous-text {
+    display: flex;
+    font-size: 32px;
+    color: #5E6577;
+    justify-content: flex-end;
+}
+
+.textiis {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.you {
+    width: 450px;
+}
+
+.framee-display {
+    display: flex;
+    justify-content: center;
+}
+
+.Total-framme {
+    max-width: 1040px;
+    width: 100%;
+    display: flex;
+    gap: 24px;
+    padding: 64px 0px 0px 0px;
+}
+
+.content-total {
+    color: #4400DD;
+    display: flex;
+    font-size: 16px;
+}
+
+.text-framee-display {
+    color: #5E6577;
+    font-size: 16px;
+}
+
+.hr {
+    border-bottom: 2px solid #CCD3E0;
+    max-width: 1040px;
+    width: 100%;
+}
+
+
+.hrrr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-yha {
+    display: flex;
+   justify-content: center;
+   align-items: center;
+
+    padding: 65px 0px 0px 0px;
+
+}
+
+.box-yha-header {
+    border-bottom: 1px solid #DD2590;
+    border-top: 1px solid #8CE900;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #155EEF;
+    width: 100%;
+    max-width: 1040px;
+
+    display: flex;
+
+}
+
+.heder__wrapper {
+    width: 100%;
+    max-width: 1040px;
+
+    display: flex;
+}
+
+.header-box-yha {
+    font-size: 24px;
+    color: #5E6577;
+    padding: 18px;
+    width: 450px;
+}
+
+.box-yha-textt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 488px;
+    width: 100%;
+    padding: 18px 24px 88px;
+}
